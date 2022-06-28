@@ -12,3 +12,14 @@
   - [GIT cli](https://code.visualstudio.com/download)
  - [GIT Documentation](https://git-scm.com/docs/gittutorial)
   
+Creating conda environment
+```
+    conda create -p venv python==3.7 -y
+
+```
+
+```
+    conda activate venv/
+
+```
+pip install requirements.txt
